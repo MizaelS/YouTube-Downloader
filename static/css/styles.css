@@ -1,0 +1,70 @@
+/* Estilos Generales */
+body, html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f9fa;
+    font-family: 'Poppins', sans-serif;
+}
+
+#content {
+    flex: 1;
+}
+
+/* Estilos de la Tarjeta */
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+/* Estilos del Botón */
+.btn-custom {
+    background-color: #ff0000;
+    color: #ffffff;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-weight: 600;
+    transition: transform 0.1s, background-color 0.1s;
+}
+
+.btn-custom:hover {
+    transform: scale(1.01);
+    background-color: #ff3333;
+}
+
+.btn-custom:disabled {
+    background-color: #cccccc;
+}
+
+/* Estilos de Formulario */
+.form-label {
+    font-weight: 600;
+}
+
+.form-select {
+    border-radius: 10px;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+/* Estilos del Footer */
+.footer {
+    border-top: 1px solid #ddd;
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer a {
+    color: #fff;
+}
+
+.footer a:hover {
+    color: #ddd;
+}
