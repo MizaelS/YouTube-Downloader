@@ -101,3 +101,13 @@ Este proyecto está bajo la licencia MIT.
 ## Vista Previa 🌐
 
 Puedes ver una vista previa de la aplicación en funcionamiento en [este enlace](http://198.251.82.48:5001/).
+
+
+## Patrocinadores 💖
+
+Este proyecto está patrocinado por [Teramont Host](https://www.teramont.net/).
+
+![Teramont Host Logo](https://www.teramont.net/assets/images/theme/logo/teramont-logo.png)
+
+Teramont Host ofrece servicios de alojamiento para servidores de Minecraft, Discord Bot Hosting, VPS y servidores dedicados. Visita su página web para obtener más información sobre sus servicios y ofertas.
+
