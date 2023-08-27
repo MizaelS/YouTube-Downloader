@@ -1,18 +1,29 @@
-# Descargador de YouTube
+# Descargador de YouTube 📥
 
-## Descripción
+## Introducción 🌟
 
 Esta es una aplicación web desarrollada en Python utilizando el framework Flask. Permite a los usuarios descargar videos de YouTube en diferentes resoluciones y calidades de audio. La aplicación muestra una vista previa del video, el título, la cantidad de vistas y permite seleccionar la calidad de video y audio antes de descargar.
 
-## Requerimientos
+## Características ✨
 
-- Python 3
+- Selección de calidad de video y audio.
+- Vista previa del video antes de descargar.
+- Interfaz de usuario moderna y fácil de usar.
+
+## Tecnologías Utilizadas 💻
+
+- Python
 - Flask
 - pytube
 - ffmpeg
-- Una VPS (Se recomienda comprar una en [Teramont Host](https://www.teramont.net/vps)
+- HTML/CSS/JavaScript
 
-## Instalación
+## Capturas de Pantalla 📸
+
+![Captura de pantalla 1](https://cdn.teramont.net/u/u8rYO7.png)
+![Captura de pantalla 2](https://cdn.teramont.net/u/K1b5vp.png)
+
+## Instalación 🛠️
 
 1. Clona este repositorio en tu máquina local.
 
@@ -60,10 +71,33 @@ python app.py
 
 La aplicación ahora debería estar ejecutándose en `http://127.0.0.1:5001/`.
 
-## Vista Previa
+## Uso 🚀
 
-Puedes ver una vista previa de la aplicación en funcionamiento en [este enlace](http://198.251.82.48:5001/).
+1. Abre un navegador web y navega a `http://127.0.0.1:5001/`.
+2. Pegue la URL del video de YouTube que desea descargar en el campo proporcionado y haga clic en "Buscar".
+3. Seleccione la calidad de video y audio deseadas.
+4. Haga clic en "Descargar" para descargar el video.
 
-## Licencia
+## Contribución 🤝
+
+Si deseas contribuir a este proyecto, por favor, haz un fork de este repositorio, crea una nueva rama, realiza tus cambios y luego envía un pull request.
+
+## Créditos 💳
+
+Esta aplicación utiliza las siguientes librerías y recursos de terceros:
+
+- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+- [pytube](https://pytube.io/en/latest/)
+- [ffmpeg](https://ffmpeg.org/)
+
+## Contacto 📬
+
+Si tienes alguna pregunta, comentario o sugerencia, no dudes en contactarme en [GitHub](https://github.com/MizaelS).
+
+## Licencia 📜
 
 Este proyecto está bajo la licencia MIT.
+
+## Vista Previa 🌐
+
+Puedes ver una vista previa de la aplicación en funcionamiento en [este enlace](http://198.251.82.48:5001/).
