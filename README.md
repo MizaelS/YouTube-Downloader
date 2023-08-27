@@ -1,4 +1,4 @@
-# YouTube Downloader
+# Descargador de YouTube
 
 ## Descripción
 
@@ -10,6 +10,7 @@ Esta es una aplicación web desarrollada en Python utilizando el framework Flask
 - Flask
 - pytube
 - ffmpeg
+- Una VPS (Se recomienda comprar una en [Teramont Host](https://www.teramont.net/vps))
 
 ## Instalación
 
